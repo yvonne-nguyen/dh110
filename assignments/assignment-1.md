@@ -4,7 +4,7 @@
 
 ---
 
-(purpose of the assignment 3-5 sentences)
+(purpose of the assignment 3-5 sentences...will be completed when i finish the assignment)
 
 https://www.oregon.gov
 
