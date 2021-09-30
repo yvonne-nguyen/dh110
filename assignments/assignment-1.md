@@ -102,16 +102,26 @@ Heuristic Evaluation of Oregon
 
 ---
 
+### Severity Rating
+
+**1**: No usuability problems.
+
+**2**: A few usability problems. 
+
+**3**: Several usability problems. 
+
+---
+
 ## Heuristic Evaluation of Oregon's Department of Transportation Website
 
- Heuristic | Evaluation
------------- | ------------- | 
-Visibility of System Status |
-Match Between System and Real World |
-User Control & Freedom |
-Consistency and Standards |
-Recognition Rather Than Recall |
-Error Prevention |
+ Heuristic | Evaluation | Suggestions | Severity Rating
+------------ | ------------- | -------------| ------------- |
+Visibility of System Status | **Pro**: Color of the link changes when the user hovers over a link. <br><br> **Pro**: Each page has a different header, this helps the user identify which page they're on. | None. | 1
+Match Between System and Real World | **Pro**: The header of each category uses language that succinctly conveys which category it is. <br><br>**Pro**: When the user clicks on the "change of address" link, they are taken to a page that asks for information on their driver's license. An image of a diver's licesne with annotations of where to find certain information is also presented. | None. | 1
+User Control & Freedom | **Pro**: If the user navigates to the wrong page, they have the option to return to the home page. <br><br> **Con**: One way for the user to navigate back to the home page is through clicking on the text on the header. However, there is also the Department of Transportation logo right next to the text. If the user clicks on this logo instead of the text, it takes them back to the Oregon.gov hompage, not the Department of Transportation homepage. | Needs consistency. Either make both the logo and the text navigate back to either the Oregon.gov homepage or the Department of Transportation homepage. | 2
+Consistency and Standards | **Pro**: The manner through which individual sub-sections are visually presented on the homepage is visually consistent. <br><br> **Pro**: Each sub-section page has a consistent layout: an additional menu bar with additional sub-sections related to that page is located on the left. <br><br>**Pro**: Links that will take the user to a PDF instead of another page will have a "□" next to it. | None. | 1
+Recognition Rather Than Recall | **Pro**: When the user clicks on the "magnifying icon" on the right, a search bar pops out. <br><br> **Pro**: Links to Oregon state government are represented through the respective social media icon. | None. | 1
+Error Prevention | **Pro**: If the user makes a typing error in the search bar, there is a "Did you mean:" followed by a suggested spelling.<br><br>**Con**: This suggestion does not appear while the user is typing in the search bar. It only shows up after the user input the text.
 Flexibility & Efficency of Use |
 Aesthetic & Minimal Design |
 Help Users with Errors |
