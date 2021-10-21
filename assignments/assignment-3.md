@@ -5,7 +5,7 @@ Yvonne Nguyen | DH 110
 
 ---
 
-## :Design Challenge 
+## Design Challenge 
 ### What is the main activity your project would support for the users?
 This project will help users find locations that offer flu vaccines and assist them in scheduling an appointment.
 
@@ -45,4 +45,5 @@ I will use two research methods: participatory observation and interview. I will
 
 ---
 
-
+## Reflection
+One big mistake I made while conducting this interview/participatory observation was that I forgot to record how long Kelly took to complete the task. Rather, I had to rely on the timestamps provided by the recording. After the participatory observation, I realized that it would be helpful if the application process initally listed what information is required in order to complete the appointment because Kelly did not have certain information (e.g., insurance information) at hand. Another flaw of the interview was the setting. I conducted the interview at my partner's apartment and I did not inform their roommates that I was conducting an interview so the background noise was loud at times. Additionally, I currently have a cold so my voice was raspy and there were moments where I was coughing a lot. This is kind of outside of my control, but I wished I could’ve presented a more professional setting and manner.
