@@ -54,6 +54,8 @@ The video recording of the interview could be found [here](https://youtu.be/7dfT
 
 The transcription of the video could be found [here](https://docs.google.com/document/d/1PUYQcyVokaLVaZrKd4b5TdxE-hA1LxL5CD_7yT68Veg/edit?usp=sharing). 
 
+Field notes could be found [here](https://drive.google.com/file/d/1CuLrsK7IIb3fT8fbV8gclfANq0kL9gDJ/view?usp=sharing).
+
 ---
 ## Reflection
 One big mistake I made while conducting this interview/participatory observation was that I forgot to record how long Kelly took to complete the task. Rather, I had to rely on the timestamps provided by the recording. After the participatory observation, I realized that it would be helpful if the application process initally listed what information is required in order to complete the appointment because Kelly did not have certain information (e.g., insurance information) at hand. Another flaw of the interview was the setting. I conducted the interview at my partner's apartment and I did not inform their roommates that I was conducting an interview so the background noise was loud at times. Additionally, I currently have a cold so my voice was raspy and there were moments where I was coughing a lot. This is kind of outside of my control, but I wished I could’ve presented a more professional setting and manner.
