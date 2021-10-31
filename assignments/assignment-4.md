@@ -8,7 +8,7 @@ Yvonne Nguyen | DH 110
 UX storytelling serves an engaging way for the designer to present the findings of their user research. During this process, the designer is obligated to put themself in their users' shoes. Storytellings acts as a medium that focuses solely on the user and their experiences. Throughout this process, the emphasis on the users' challenges and goals is constantly reiterated; thus, storytelling urges the designer to abandon any biases they might still hold. 
 
 ---
-
+The user personas, empathy maps, and user journey maps can also be found [here](https://yqn.notion.site/yqn/dh110-351d62ed0ea64e86b24b828af12b6aa1).
 # Personas & Empathy Maps
 
 ## Kelly Nguyen
