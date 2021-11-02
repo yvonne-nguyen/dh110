@@ -47,7 +47,10 @@ Based on these personas, and the user journey maps that went along with each, I 
 ---
 
 ## User Testing
-
+![testing-1](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/testing-1.jpg)
+![testing-2](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/testing-2.jpg)
+![testing-3](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/testing-3.jpg)
+![testing-4](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/testing-4.jpg)
 
 ---
 
@@ -55,4 +58,7 @@ Based on these personas, and the user journey maps that went along with each, I 
 As I was designing my wireframes and wireflow, I tried to put myself in the shoes of my users to see if my design choices made sense/is useful. At times, I was unsure if my process was "right". I wasn't sure if I was supposed to design all of the wireframe screens at once or one at a time. I ended up opting for one at a time and made a lot of edits along the way. One regret I have was not documenting the inital ideas I had. I will try my best to document every design change/iteration I make in the future. As for the wireframing process, I tried my best to "color code" each feature but it looks kind of messy on some pages. I'm not sure how to do this in a neater way. Additionally, I designed on dark mode. Dark mode is just a personal preference but I notice that the highlight colors do not show up as brightly. I think I should sketch my wireframes and wireflows on light mode next time. 
 
 Based on the prototyping testing, here are some features that I would like to add to my design:
-1. A “progress bar” that indicates how are along the user is in completing the scheduling application. This progress bar will be on the personal information, insurance information, primary physician’s contact information, contact information, and summary screens. Each page will represent a “dot/circle” and the user can click on each “dot/circle” to move around. 
+1. A “progress bar” that indicates how far along the user is in completing the scheduling application. This progress bar will be on the personal information, insurance information, primary physician’s contact information, contact information, and summary screens. Each page will represent a “dot/circle” and the user can click on each “dot/circle” to move around. 
+2. Instead of using the “circles/dots” or selection, it’s best to put a bar in-between the options so the user can clearly identify which section they are pressing 
+3. Search bar for the vaccine selection page. 
+4. Have filter options for the vaccine location on the address page because it is unsure what the default distance is. 
