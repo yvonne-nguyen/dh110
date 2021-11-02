@@ -59,6 +59,6 @@ As I was designing my wireframes and wireflow, I tried to put myself in the shoe
 
 Based on the prototyping testing, here are some features that I would like to add to my design:
 1. A “progress bar” that indicates how far along the user is in completing the scheduling application. This progress bar will be on the personal information, insurance information, primary physician’s contact information, contact information, and summary screens. Each page will represent a “dot/circle” and the user can click on each “dot/circle” to move around. 
-2. Instead of using the “circles/dots” or selection, it’s best to put a bar in-between the options so the user can clearly identify which section they are pressing 
-3. Search bar for the vaccine selection page. 
-4. Have filter options for the vaccine location on the address page because it is unsure what the default distance is. 
+2. Instead of using the “circles/dots” or selection, it’s best to put a bar in-between the options so the user can clearly identify which section they are pressing. Justin told me that it could be visucally confusing using just the circles.  
+3. Search bar for the vaccine selection page. Justin noted that I only offered a small selection of vaccines, but he proposed a situation where there were 20+ vaccine options to choose from. In this situation, it would be best to have a search so the user can find what they are looking for quickly instead of sifting through every choice. 
+4. Have filter options for the vaccine location on the address page because it is unsure what the default distance is. When Justin used the filter option, he noted how he was confused as to why he had to change it to 1 mile because he wasn't sure what the default distance "filter" was. 
