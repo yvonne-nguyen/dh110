@@ -39,7 +39,7 @@ Based on these personas, and the user journey maps that went along with each, I 
 
 ## Tasks
 1. Schedule a vaccine appointment.
-2. State/list which information is needed in order to complete the scheduling application. 
+2. Find out which information is needed in order to complete the scheduling application. 
 3. Filter results by distance (1 mile) and time/date (Oct 2, 2021 at 3PM).
 4. Sort by distance (closest to furthest).
-5. How to edit/fix a typo found on the "summary" page. 
+5. Edit a typo found on the "summary" page. 
