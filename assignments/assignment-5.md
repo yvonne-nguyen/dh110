@@ -43,3 +43,13 @@ Based on these personas, and the user journey maps that went along with each, I 
 3. Filter results by distance (1 mile) and time/date (Oct 2, 2021 at 3PM).
 4. Sort by distance (closest to furthest).
 5. Edit a typo found on the "summary" page. 
+
+---
+
+## User Testing
+
+
+---
+
+## Reflection
+As I was designing my wireframes and wireflow, I tried to put myself in the shoes of my users to see if my design choices made sense/is useful. At times, I was unsure if my process was "right". I wasn't sure if I was supposed to design all of the wireframe screens at once or one at a time. I ended up opting for one at a time and made a lot of edits along the way. One regret I have was not documenting the inital ideas I had. I will try my best to document every design change/iteration I make in the future. As for the wireframing process, I tried my best to "color code" each feature but it looks kind of messy on some pages. I'm not sure how to do this in a neater way. Additionally, I designed on dark mode. Dark mode is just a personal preference but I notice that the highlight colors do not show up as brightly. I think I should sketch my wireframes and wireflows on light mode next time. 
