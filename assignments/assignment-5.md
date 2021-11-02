@@ -22,3 +22,15 @@ Based on these personas, and the user journey maps that went along with each, I 
 2. A filter option that allows users to filter out locations based on the distance/proximity and vaccination avaliability (based on which vaccine is avaliable on a given date and within a given hour, not which *types* of vaccines are avaliable at a given location). More information regarding my personas can be found [here](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-4.md).
 
 ## Wireframes
+![wireframe-1](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/wireframes-1.jpg)
+![wireframe-2](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/wireframes-2.jpg)
+![wireframe-3](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/wireframes-3.jpg)
+![wireframe-4](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/wireframes-4.jpg)
+
+---
+
+## Wireflows
+![wireflow-1](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/wireflows-5.jpg)
+![wireflow-2](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/wireflows-6.jpg)
+![wireflow-3](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/wireflows-7.jpg)
+![wireflow-4](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/wireflows-8.jpg)
