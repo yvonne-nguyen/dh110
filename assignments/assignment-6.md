@@ -2,7 +2,7 @@
 Yvonne Nguyen | DH 110
 ---
 ## Purpose
-My project is centered around an app that assists users in finding and scheduling a vaccine. The purpose of an interface design is to make the user's experience with using a product as "smooth" as possible. Interface design primarily focuses on the aesthetics of a product: typography, layout, color, etc. 
+My project is centered around an app that assists users in finding and scheduling a vaccine. The purpose of an interface design is to make the user's experience with using a product as "smooth" as possible. Interface design primarily focuses on the aesthetics of a product: typography, layout, color, etc. This prototype contains two features that I initially wanted to implement: the notice page and the filter and sort options. Aside from this, I also have a screen that allows users to input their address and filter the distance prior to showing the the results. There are also screens that depict the vaccination location details (e.g., phone number, hours of operation), and screens that allow the user to fill out their personal information, insurance information, and primary physician’s information, as well as a summary screen.
 
 ### Wireframe
 This is a screenshot that provides a brief overview of what my wireframes look like. I cannot take a screen of all of my screens because I have over 20 and that would obscure the details on each indvividual screen. The link to my Figma prototype is [here](https://www.figma.com/file/EkkyhsjrsY9pp6xjSA3D2a/dh110-assignment-6%3A-high-fidelity-prototype?node-id=0%3A1).
@@ -31,7 +31,7 @@ This screenshot captures 3 shape variations throughout my design. First is the c
 ![shape variation 4](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/sv-4.png)
 
 ### Color
-These are my screens for light and dark mode. For dark mode, my background color is #2C2C2C and the text and accent color is #FFFFFF. For light mode, my background color is #FFF1DC, with the text color being #000000, and the accent color is #005492. I opted for a cream color for my light mode background because I wanted the product to have a warm feeling. I also tried using a light grey and it felt cold, so the cream color feels just right. I chose a dark blue for my accent color because blue has a calm feel. Initially, I wanted a lighter blue, but that color did not pass the color contrast accessibility test, so I ended up using this dark blue. 
+These are my screens for light and dark mode. For dark mode, my background color is #2C2C2C and the text and accent color is #FFFFFF. For light mode, my background color is #FFF1DC, with the text color being #000000, and the accent color is #005492. I opted for a cream color for my light mode background because I wanted the product to have a warm feeling. I also tried using a light grey and it felt cold, so the cream color feels just right. I chose a dark blue for my accent color because blue has a calm feel. Initially, I wanted a lighter blue, but that color did not pass the color contrast accessibility test, so I ended up using this dark blue. I conducted my color contrast test using the Spark plugin. I tested the dark blue against the cream colored background and my color contrast result is 7.01:1.
 
 ![dark mode](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/color-1.png)
 ![light mode](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/color-2.png)
@@ -52,13 +52,16 @@ For the impression test, I asked my partner Justin to help me. We conducted the 
 
 ### Summary
 #### 1. Font Size Inconsistentcy
-Justin pointed out how the “flu” option from the vaccine selection category is not the same font size as the other options. This was a mistake that I will fix later on.
+Justin pointed out how the “flu” option from the vaccine selection category is not the same font size as the other options. This was a minor mistake that I will fix later on.
 
 #### 2. Dark Mode
-Justin pointed out the cream color is a bit light and how he would prefer a dark mode. At the time I asked him to test out the prototype, I did not have a dark mode made. I made a dark mode option afterwards.
+Justin pointed out the cream color is a bit light/bright and how he would prefer a dark mode. At the time I asked him to test out the prototype, I did not have a dark mode made. I made a dark mode option afterwards.
 
 #### 3. Text Alignment 
-On the screens that require the user to fill out their personal, insurance, and primary physician’s contact information, the text alignment for the the “filled in” options are not aligned.
+On the screens that require the user to fill out their personal, insurance, and primary physician’s contact information, the text alignment for the the “filled in” options are not aligned. I used the "overlay" feature to get the text on and it was difficult to align it. I think I have to make another layout specifically for the portion of filling in that information.
 
 #### 4. Text 
-Justin said that the text on the “summary” page do not differentiate the header of each section from the body. Due to the nature of the font I chose, this is a problem. I can change it through making the typeface bigger. However, throughout the design process, I found this to be a major problem. I’m currently contemplating changing the font.
+Justin said that the text on the “summary” page do not differentiate the header of each section from the body text. Due to the nature of the font I chose, this is a problem. I can amend for this mistake through making the typeface bigger or changing the header text to a different color. Additionally, on the screen that lists additional information regarding the vaccination site, the header (e.g., vaccines available) seems as though it is the body text. However, throughout the design process, I found this nature of the font to be a major problem. I’m currently contemplating changing the font. 
+
+#### 5. Color
+Justin noted that the likes the dark blue against the cream colored background. It makes it easier for him to know which option (e.g., checkbox) he selected. 
