@@ -1,6 +1,5 @@
 # Assignment 5: Interface Design 
 Yvonne Nguyen | DH 110
-
 ---
 ## Purpose
 My project is centered around an app that assists users in finding and scheduling a vaccine. The purpose of an interface design is to make the user's experience with using a product as "smooth" as possible. Interface design primarily focuses on the aesthetics of a product: typography, layout, color, etc. 
@@ -25,7 +24,15 @@ I tested out the fonts Arial, Arial Rounded MT Bold, and Dongle, respectively. R
 ### Shape Variations
 This screenshot captures 3 shape variations throughout my design. First is the circle used to indicate which date is being selected. I wanted to emphasize the date the user selected so they do not have to second guess which date they initially selected. I opted for a circle instead of a square because it feels more intuitive (to me at least). When I mark an important date on a calendar, I tend to circle the date instead of squaring it. The other two shapes are the “apply” button and the buttons for selecting which time the user wants their appointment to be at. These buttons are both rectangles but their roundness varies because I wanted to emphasize how they serve different purposes. The button for selecting the time is similar to the checkbox buttons throughout my design. I wanted this to emphasize select only one option because for the checkboxes, the user can only select one option. I wanted the design to be consistent
 
-![shape variations](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/sv-1.png)
+![shape variation 1](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/sv-1.png)
+![shape variation 2](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/sv-2.png)
+
+### Color
+These are my screens for light and dark mode. For dark mode, my background color is #2C2C2C and the text and accent color is #FFFFFF. For light mode, my background color is #FFF1DC, with the text color being #000000, and the accent color is #005492. I opted for a cream color for my light mode background because I wanted the product to have a warm feeling. I also tried using a light grey and it felt cold, so the cream color feels just right. I chose a dark blue for my accent color because blue has a calm feel. Initially, I wanted a lighter blue, but that color did not pass the color contrast accessibility test, so I ended up using this dark blue.
+
+![dark mode](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/color-1.png)
+![light mode](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/color-2.png)
+![light mode color contrast](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/color-3.png)
 
 ### Layout
 My design has three layouts, “home”, “good”, and “results”, respectively. In hindsight, I probably should not use “good”. It was just the first world that came to my mind at the time. At first, I started off with designing a layout for my onboarding screen, but it turns out I needed a different layout for my following screens because those screens require more content. “Home” has 3 properties. The first contains 2 rows on the “top”, with the height of 80, offset of 30, and gutter of 25. The second the 1 column in the middle, it has the properties “stretch, with an auto width, and margin of 30. The last contains 2 rows located on the “bottom”, with the height of 40, offset of 30, and gutter of 150. The “good” layout emphasizes the lists of options (e.g., vaccine selection) the user will encounter. Each row then has each “section” of the list carved out. The “good” layout has A LOT (7 properties), but I will go over what the most important one. I have 13 rows, with the properties “center”, with the height of 67, offset of 0, and gutter of 1. The gutter size of 1 marks the place where the line that will divide each section would go. Does this layout need 7 properties? No. Making the layout is, in my opinion, the most difficult step. So I ended up playing around with it a lot and I ended up with 7 properties. The end result looks very nice so I’m too scared to delete anything. I will probably opt for less than 7 properties next time. Finally is the “results” option. Since my “results” screen has a scrolling option, my original layout cannot conform to the size of this screen because when I stretch my screen out, the layout rows move along with it. Therefore, I had to make a new layout specifically for that page. It is inspired by the “good” layout. This layout has less properties though (lol). It has 4 properties and the highlight is the 15 rows: it is “centered”, with the height of 110, offset of 0, and gutter of 1.
@@ -33,3 +40,22 @@ My design has three layouts, “home”, “good”, and “results”, respecti
 ![layout 1](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/layout-1.png)
 ![layout 2](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/layout-2.png)
 ![layout 3](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/layout-3.png)
+
+---
+## Impressions Test
+The link to my impression test video can be found [here](https://youtu.be/XiRCqE7R6lg). 
+
+For the impression test, I asked my partner Justin to help me. We conducted the test over Zoom. I sent him my Figma file and asked him to share his screen while he was looking at my prototype. 
+
+### Summary
+#### 1. Font Size Inconsistentcy
+Justin pointed out how the “flu” option from the vaccine selection category is not the same font size as the other options. This was a mistake that I will fix later on.
+
+#### 2. Dark Mode
+Justin pointed out the cream color is a bit light and how he would prefer a dark mode. At the time I asked him to test out the prototype, I did not have a dark mode made. I made a dark mode option afterwards.
+
+#### 3. Text Alignment 
+On the screens that require the user to fill out their personal, insurance, and primary physician’s contact information, the text alignment for the the “filled in” options are not aligned.
+
+#### 4. Text 
+Justin said that the text on the “summary” page do not differentiate the header of each section from the body. Due to the nature of the font I chose, this is a problem. I can change it through making the typeface bigger. However, throughout the design process, I found this to be a major problem. I’m currently contemplating changing the font.
