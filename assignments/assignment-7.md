@@ -62,6 +62,6 @@ I learned how to use components and variants recently and it's a super cool feat
 ![components](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/components.png)
 
 #### Drag
-When I was half-way through my iteration, I realized that what I was is a mobile app. This whole time, I was testing out my product via my laptop. I downloaded the Figma Mirror app and I tested out my prototype on my phone. I found myself performing certain "muscle memory" gestures from using my phone. One was dragging left to right in order to go to the previous page. I decided to implement that to my design by adding a rectangle to the left side of my screen and made the opacity 1%. For the interaction, I used the "drag" feature (with the animation set to "push" and 'push left'). 
+When I was half-way through my iteration, I realized that what I was designing is a mobile app. This whole time, I was testing out my product via my laptop. I downloaded the Figma Mirror app and I tested out my prototype on my phone. I found myself performing certain "muscle memory" gestures from using my phone. One was dragging left to right in order to go to the previous page. I decided to implement that to my design by adding a rectangle to the left side of my screen and made the opacity 1%. For the interaction, I used the "drag" feature (with the animation set to "push" and 'push left'). 
 
 ![drag](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/drag.png)
