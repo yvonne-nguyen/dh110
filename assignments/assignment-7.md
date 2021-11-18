@@ -17,7 +17,7 @@ My project is centered around an app that assists users in finding and schedulin
 ---
 
 ### Link 
-The link to my interactive prototype can be found [here](https://www.figma.com/file/0lpsZpmyWqBOMbIsT962yp/interactive-prototype?node-id=0%3A1)
+The link to my interactive prototype can be found [here](https://www.figma.com/file/EkkyhsjrsY9pp6xjSA3D2a/dh-110?node-id=56%3A5)
 
 ![interactive prototype screenshot](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/interactive-prototype.png)
 
