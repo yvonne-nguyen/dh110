@@ -1,4 +1,4 @@
-# Assignment 5: Interface Design 
+# Assignment 6: Interface Design 
 Yvonne Nguyen | DH 110
 ---
 ## Purpose
