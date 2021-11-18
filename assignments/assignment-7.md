@@ -44,7 +44,7 @@ Based on the limited options with the previous font I chose (Arial Rounded MT Bo
 This is the previous font I used, Arial Rounded MT Bold.
 ![old font](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/old-font.png)
 
-This is the font I currently use.
+This is the font I currently use, Comfortaa.
 ![new font](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/new-font.png)
 
 #### Button Size
@@ -54,3 +54,9 @@ Now, the dimensions of my new button is, 125x50 with a 2px center stroke.
 
 The button on top is my old one. And the component on the bottom are my new ones.
 ![buttons](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/buttons.png)
+
+#### Components
+I learned how to use components and variants recently and it's a super cool feature. Initially, I wanted to have an option for users to hover over a button, and once they hover over it, the color changes. This is because I wanted to reinforce to the user that the button is "clickable". However, prior to learning about how to use components, I made a new screen for every interaction (i.e., one screen for the vaccine selection page and one screen showing that the flu vaccine is selected). This, when it came to the filling out one's information page, got *extremely* cluttered. For reference, my new iteration has 20 screens while my initial design has 36 screens. Initially, when I tried to implement the “hover” feature, I used overlays. But I ran into the problem of the page being “static” (i.e., I cannot click on the “back” or “next” buttons). Afterwards, I tried using components and variants but I got really confused because what I wanted to implement would not manifest. I felt as though I was on the right track, but I was missing something. I ended up asking Professor Cho for help. Turns out, I needed to add the interaction to the variant from inside the component box, and not add the interaction to the component on the screen (what I was doing before). This was really confusing, but now I feel as though I have a firmer grasp on how to use components and variants. 
+
+
+![components](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/components.png)
