@@ -25,11 +25,11 @@
 
 ---
 
-### Low-fidelity Prototype (wireflow, assignment 6)
+### Low-fidelity Prototype [wireflow, assignment 6]
 
 ---
 
-### High-fidelity Prototype (functional/interactive prototype, assignment 8)
+### High-fidelity Prototype [functional/interactive prototype, assignment 8]
 
 ---
 
