@@ -41,7 +41,16 @@ Based on the feedback I got from my classmates and from my impression test, I ma
 #### Font
 Based on the limited options with the previous font I chose (Arial Rounded MT Bold), I changed my font to Comfortaa. It has the same "feel" that I was going for (i.e., friendly), and it also has a "bold" and "regular option"!
 
+This is the previous font I used, Arial Rounded MT Bold.
+![old font](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/old-font.png)
+
+This is the font I currently use.
+![new font](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/new-font.png)
+
 #### Button Size
 One comment that stuck out to me during my peer review was the size of my buttons. I decided to make them bigger. 
 The dimensions of my previous button was, 130x38 with a 2px inside stroke.
 Now, the dimensions of my new button is, 125x50 with a 2px center stroke. 
+
+The button on top is my old one. And the component on the bottom are my new ones.
+![buttons](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/buttons.png)
