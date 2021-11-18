@@ -9,27 +9,27 @@
 
 ---
 
-### Competitor Analysis [assignments 1 + 2]
+### Competitor Analysis 
 
 ---
 
-### User Research [assignment 4]
+### User Research 
 
 ---
 
-### UX Storytelling [assignment 5]
+### UX Storytelling 
 
 ---
 
-### Wireframe and Graphic Design Variation [assignments 6 + part of 7]
+### Wireframe and Graphic Design Variation 
 
 ---
 
-### Low-fidelity Prototype [wireflow, assignment 6]
+### Low-fidelity Prototype 
 
 ---
 
-### High-fidelity Prototype [functional/interactive prototype, assignment 8]
+### High-fidelity Prototype 
 
 ---
 
