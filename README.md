@@ -40,7 +40,7 @@ More information about my user research can be found [here](https://github.com/y
 ### UX Storytelling 
 I created two user personas: Kelly and Soren. 
 Kelly's User Persona
-![kelly user persona](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/knp.png)
+<img src=”https://github.com/yvonne-nguyen/dh110/blob/main/assignments/knp.png” height=”300px”> 
 
 Kelly's Empathy Map
 ![kelly empathy map](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/kne.png)
