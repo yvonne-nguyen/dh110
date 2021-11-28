@@ -40,8 +40,7 @@ More information about my user research can be found [here](https://github.com/y
 ### UX Storytelling 
 I created two user personas: Kelly and Soren. 
 Kelly's User Persona
-
-<img src="https://github.com/yvonne-nguyen/dh110/blob/main/assignments/knp.png" height="300px"> 
+![kelly user persona](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/knp.png)
 
 Kelly's Empathy Map
 ![kelly empathy map](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/kne.png)
@@ -72,8 +71,7 @@ More information about my graphic design variations can be found [here](https://
 
 ### Low-fidelity Prototype 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEkkyhsjrsY9pp6xjSA3D2a%2Fdh-110%3Fnode-id%3D0%253A1"></iframe>
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEkkyhsjrsY9pp6xjSA3D2a%2Fdh-110%3Fnode-id%3D0%253A1" allowfullscreen></iframe> 
 
 ### High-fidelity Prototype 
 
