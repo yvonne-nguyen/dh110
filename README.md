@@ -72,7 +72,7 @@ More information about my graphic design variations can be found [here](https://
 
 ### Low-fidelity Prototype 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEkkyhsjrsY9pp6xjSA3D2a%2Fdh-110%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEkkyhsjrsY9pp6xjSA3D2a%2Fdh-110%3Fnode-id%3D0%253A1"></iframe>
 
 
 ### High-fidelity Prototype 
