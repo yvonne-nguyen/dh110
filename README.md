@@ -43,23 +43,23 @@ Kelly's User Persona
 ![kelly user persona](assignments/knp.png)
 
 Kelly's Empathy Map
-![kelly empathy map](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/kne.png)
+![kelly empathy map](assignments/kne.png)
 
 Soren's User Persona
-![soren user persona](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/scp.png)
+![soren user persona](assignments/scp.png)
 
 Soren's Empathy Map
-![soren empathy map](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/sce.png)
+![soren empathy map](assignments/sce.png)
 
 More information about my ux storytelling can be found [here](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-4.md).
 
 ### Wireframe and Graphic Design Variation 
 Here are my wireframe and wireflow sketches:
 
-![wireflow-1](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/wireflows-5.jpg)
-![wireflow-2](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/wireflows-6.jpg)
-![wireflow-3](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/wireflows-7.jpg)
-![wireflow-4](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/wireflows-8.jpg)
+![wireflow-1](assignments/wireflows-5.jpg)
+![wireflow-2](assignments/wireflows-6.jpg)
+![wireflow-3](assignments/wireflows-7.jpg)
+![wireflow-4](assignments/wireflows-8.jpg)
 
 Here is my initial graphic design variation:
 ![wireframe](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-6-1.png)
