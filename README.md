@@ -30,14 +30,22 @@ My participant prefers that the vaccination site is (1) nearby and (2) easy to d
 My participant chooses to get their flu vaccine at Walgreens instead of their primary physician's office because they do not have to pay a copay at Walgreens.
 
 #### 3. Convinence 
-My participant prefers scheduling their flu appointment digitally because they have the option to see which date/time is avaliable and how it can fit into their schedule. 
+My participant prefers scheduling their flu appointment digitally because they have the option to see which dates and times are avaliable.
 
 #### 4. Insurance and Primary Physician's Information
 My participant did not have their insurance and primary physician's information on-hand. Hence, the application took longer than they expected. Additionally, the application had unclear instructions and they were unsure if that information is mandatory or not.
 
+More information about my user research can be found [here](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-3.md).
+
 ### UX Storytelling 
+I created two user personas: Kelly and Soren. 
 
+![kelly user persona](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/knp.png)
+![kelly empathy map](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/kne.png)
+![soren user persona](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/scp.png)
+![soren empathy map](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/sce.png)
 
+More information about my ux storytelling can be found [here](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-4.md).
 
 ### Wireframe and Graphic Design Variation 
 
