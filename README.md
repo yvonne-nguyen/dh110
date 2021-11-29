@@ -39,6 +39,7 @@ More information about my user research can be found [here](https://github.com/y
 
 ### UX Storytelling 
 I created two user personas: Kelly and Soren. 
+
 Kelly's User Persona
 ![kelly user persona](assignments/knp.png)
 
@@ -62,7 +63,7 @@ Here are my wireframe and wireflow sketches:
 ![wireflow-4](assignments/wireflows-8.jpg)
 
 Here is my initial graphic design variation:
-![wireframe](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-6-1.png)
+![wireframe](/assignments/assignment-6-1.png)
 
 More information about my wireframes and wireflows can be found [here](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-5.md).
 
@@ -71,9 +72,9 @@ More information about my graphic design variations can be found [here](https://
 
 ### Low-fidelity Prototype 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEkkyhsjrsY9pp6xjSA3D2a%2Fdh-110%3Fnode-id%3D0%253A1" allowfullscreen></iframe> 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="850" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEkkyhsjrsY9pp6xjSA3D2a%2Fdh-110%3Fnode-id%3D0%253A1" allowfullscreen></iframe> 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEkkyhsjrsY9pp6xjSA3D2a%2Fdh-110%3Fpage-id%3D0%253A1%26node-id%3D4%253A266%26viewport%3D241%252C48%252C0.2%26scaling%3Dscale-down%26starting-point-node-id%3D4%253A266" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="850" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEkkyhsjrsY9pp6xjSA3D2a%2Fdh-110%3Fpage-id%3D0%253A1%26node-id%3D4%253A266%26viewport%3D241%252C48%252C0.2%26scaling%3Dscale-down%26starting-point-node-id%3D4%253A266" allowfullscreen></iframe>
 
 ### High-fidelity Prototype 
 
