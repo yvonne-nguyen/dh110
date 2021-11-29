@@ -65,3 +65,15 @@ I learned how to use components and variants recently and it's a super cool feat
 When I was half-way through my iteration, I realized that what I was designing is a mobile app. This whole time, I was testing out my product via my laptop. I downloaded the Figma Mirror app and I tested out my prototype on my phone. I found myself performing certain "muscle memory" gestures from using my phone. One was dragging left to right in order to go to the previous page. I decided to implement that to my design by adding a rectangle to the left side of my screen and made the opacity 1%. For the interaction, I used the "drag" feature (with the animation set to "push" and 'push left'). 
 
 ![drag](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/drag.png)
+
+---
+## Iterations
+#### Dark Mode
+I added a dark mode option. This dark and light mode toggle. Light mode is represented by the sun icon, while dark mode is represented by the moon icon.
+![dark mode](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/dm.png)
+![toggle](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/dmlm.png)
+
+#### Buttons
+I removed the blue hover accent. After I added dark mode, I tried to replicae the blue but I found it difficult to find a blue that looked nice and passed the color contrast check. Now, the light mode text is the same as the dark mode background. The hover is the same dark grey at 50% opacity. The dark mode background is a dark grey and the text color is the same as the light mode background (a cream color). The hover is the cream color at 50% opacity. 
+![light mode buttons](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/buttonsit.png)
+![dark mode buttons](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/dmbuttons.png)
