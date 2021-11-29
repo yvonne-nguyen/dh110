@@ -86,7 +86,5 @@ More information about my low-fidelity prototype can be found [here](https://git
 
 More information about my high-fidelity prototype can be found [here](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-7.md).
 
-### Revision History
-
 ### Pitch Video
 
