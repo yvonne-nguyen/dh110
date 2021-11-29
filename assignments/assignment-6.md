@@ -66,14 +66,3 @@ Justin said that the text on the “summary” page do not differentiate the hea
 #### 5. Color
 Justin noted that the likes the dark blue against the cream colored background. It makes it easier for him to know which option (e.g., checkbox) he selected. 
 
----
-## Iterations
-#### Dark Mode
-I added a dark mode option. This dark and light mode toggle. Light mode is represented by the sun icon, while dark mode is represented by the moon icon.
-![dark mode](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/dm.png)
-![toggle](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/dmlm.png)
-
-#### Buttons
-I removed the blue hover accent. After I added dark mode, I tried to replicae the blue but I found it difficult to find a blue that looked nice and passed the color contrast check. Now, the light mode text is the same as the dark mode background. The hover is the same dark grey at 50% opacity. The dark mode background is a dark grey and the text color is the same as the light mode background (a cream color). The hover is the cream color at 50% opacity. 
-![light mode buttons](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/buttonsit.png)
-![dark mode buttons](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/dmbuttons.png)
