@@ -15,7 +15,7 @@ For this project, I was tasked to analyze Oregon's government websites. One of t
 2. visibility of system status
 3. match between system and real world.
 
-As a precursor, this project was executed during flu season and the COVID-19 pandemic. Given this, I found it extremely bothersome when a government website that is responsible for relying important health information only offers *one* option for their constituents to find/schedule a flu vaccine: “call 211”. This option is not viable for everyone. Hence, there should be a quick and efficient way for one to find/schedule a flu vaccine without having a call a number. 
+As a precursor, this project was executed during flu season and the COVID-19 pandemic. Given this, I found it extremely bothersome when a government website that is responsible for relaying important health information only offers *one* option for their constituents to find/schedule a flu vaccine: “call 211”. This option is not viable for everyone. Hence, there should be a quick and efficient way for one to find/schedule a flu vaccine without having a call a number. 
 
 More information about my usability heuristic review can be found [here](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-1.md).
 
