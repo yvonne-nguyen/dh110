@@ -89,6 +89,8 @@ More information about my high-fidelity prototype can be found [here](https://gi
 
 ### Pitch Video
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CQApcNAEHhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Conclusion
 In the end, I was able to complete the project idea that I had in mind and I'm very proud of what I created. If I had more time, I would like to perform a usability testing for my prototype and work on some more iterations. Another area that I would like to improve on would be user research. I only had 1 participant for my intereview and I believe that having more would've better. Additionally, I could've done more competitor analysis of similar apps/websites. 
 
