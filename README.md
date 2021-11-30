@@ -55,7 +55,7 @@ Soren's Empathy Map
 More information about my ux storytelling can be found [here](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-4.md).
 
 ### Wireframe and Graphic Design Variation 
-Here are my wireframe and wireflow sketches:
+Here are my wireframe and wireflow sketches. These sketches support two features: notice of required materials and a sort and filter option.
 
 ![wireflow-1](assignments/wireflows-5.jpg)
 ![wireflow-2](assignments/wireflows-6.jpg)
@@ -79,6 +79,7 @@ More information about my graphic design variations can be found [here](https://
 More information about my low-fidelity prototype can be found [here](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-6.md).
 
 ### High-fidelity Prototype 
+My high fidelity prototype has three features: notice of required materials, sort and filter option, and light/dark mode toggle. 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1000" height="700" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEkkyhsjrsY9pp6xjSA3D2a%2Fdh-110%3Fnode-id%3D56%253A5" allowfullscreen></iframe>
 
@@ -88,3 +89,5 @@ More information about my high-fidelity prototype can be found [here](https://gi
 
 ### Pitch Video
 
+### Conclusion
+I had a lot of fun doing this project. I got to learn about steps that go behind the UX Design process and I learned how to use Figma. Learning about UX Design taught me to be more appreciative about the features a apart of every app/website. If I had more time, I would like to perform a usability testing for my prototype and work on some more iterations. Overall, I'm surprised by the amount of work I've managed to complete within just a short span of time (~10 weeks). UX Design is an interesting field and I’m eager to learn more about it. I’m grateful that UCLA offers a course on UX Design and taking this course made me feel more confident on about pursuing my own projects.
