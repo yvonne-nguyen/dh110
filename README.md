@@ -6,7 +6,7 @@ The CDC recommends that anyone over the age of 6 months should get the flu vacci
 
 
 ### Clear Design Statement 
-When an individual wants to schedule a vaccination appointment, they typically call their doctor's office or go to a chain pharmacy. Given this, it could be difficult for one to choose which vaccination site is best suited for one's specific needs (e.g., particular type of vaccine and/or hours of opperations). [F]lu [F]inder allows users to schedule the vaccine(s) of their choice through comparing multiple chain pharmacies in order to find out which pharmacy best suits their needs.
+When an individual wants to schedule a vaccination appointment, they typically call their doctor's office or go to a chain pharmacy. Given this, it could be difficult for one to choose which vaccination site is best suited for one's specific needs (e.g., particular type of vaccine and/or hours of operations). [F]lu [F]inder allows users to schedule the vaccine(s) of their choice through comparing multiple chain pharmacies in order to find out which pharmacy best suits their needs.
 
 
 ### Competitor Analysis 
