@@ -29,7 +29,7 @@ My participant prefers that the vaccination site is (1) nearby and (2) easy to d
 #### 2. Copy
 My participant chooses to get their flu vaccine at Walgreens instead of their primary physician's office because they do not have to pay a copay at Walgreens.
 
-#### 3. Convinence 
+#### 3. Convenience 
 My participant prefers scheduling their flu appointment digitally because they have the option to see which dates and times are avaliable.
 
 #### 4. Insurance and Primary Physician's Information
