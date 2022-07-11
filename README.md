@@ -19,7 +19,7 @@ As a precursor, this project was executed during flu season and the COVID-19 pan
 
 More information about my usability heuristic review can be found [here](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-1.md).
 
-More information about my usabulity testing can be found [here](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-2.md). 
+More information about my usability testing can be found [here](https://github.com/yvonne-nguyen/dh110/blob/main/assignments/assignment-2.md). 
 
 ### User Research 
 Because I worked on this project during flu season, a friend of mine was gracious enough to let me observe how they schedule their flu vaccine and spared some of their time to answer my contextual inquiry questions. These are my key takeaways from the interview:
